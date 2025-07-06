@@ -83,7 +83,8 @@ function Chatbot() {
 }
 
 
-export default Chatbot; */
+export default ChatBot;  
+*/
 
 import './Chatbot.css';
 import React, { useState, useEffect, useRef } from 'react';
